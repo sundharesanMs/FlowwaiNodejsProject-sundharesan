@@ -4,13 +4,11 @@ npm init - y
 npm install express mongoose nodemon  bcrypt 
 
 Transactions API Documentation
-
-
 Below is an API documentation for the routes you provided, which defines the HTTP endpoints, methods, request body, response formats, and any relevant details for each endpoint.
 
 Transactions API Documentation
-
 http://localhost:3000/transactions
+
 Create a Transaction
 POST /transactions
 Create a new transaction (either income or expense).
