@@ -12,6 +12,7 @@ http://localhost:3000/transactions
 Create a Transaction
 POST /transactions
 Create a new transaction (either income or expense).
+
 {
   "type": "income/expense",
   "category": "string",
